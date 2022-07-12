@@ -1,4 +1,4 @@
-# Next-Mantine-Tailwind Template (with TypeScript)
+## Next-Mantine-Tailwind Template (with TypeScript)
 
 ### Includes all the basic setup of **Mantine** and **TailwindCSS** with **NextJS**
 1. MantineProvider component in app.tsx
